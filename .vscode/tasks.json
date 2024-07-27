@@ -9,7 +9,7 @@
                 "build",
                 "${workspaceFolder}/Reactivities.sln",
                 "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+                "/consoleloggerparameters:NoSummary;ForceNoAlign",
             ],
             "problemMatcher": "$msCompile"
         },
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Reactivities.sln"
+                "${workspaceFolder}/Reactivities.sln",
             ],
             "problemMatcher": "$msCompile"
         }
